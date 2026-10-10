@@ -6,7 +6,7 @@ To see the library in action with real calibrated probabilities, run the provide
 
 ```bash
 # Clone the repository
-git clone [https://github.com/bakshiyogesh/decision-policy.git](https://github.com/bakshiyogesh/decision-policy.git)
+git clone https://github.com/bakshiyogesh/decision-policy.git
 cd decision-policy
 
 # Install the library and the example dependencies
