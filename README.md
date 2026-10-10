@@ -2,6 +2,8 @@
 
 To see the library in action with real calibrated probabilities, run the provided Web3 demo. You will need to install the optional example dependencies (like `scikit-learn`).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+
 ```bash
 # Clone the repository
 git clone [https://github.com/bakshiyogesh/decision-policy.git](https://github.com/bakshiyogesh/decision-policy.git)
