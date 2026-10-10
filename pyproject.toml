@@ -38,5 +38,9 @@ dev = [
     "twine>=4.0.0",
 ]
 
+examples = [
+    "scikit-learn>=1.0.0",
+]
+
 [tool.hatch.build.targets.wheel]
 packages = ["src/decision_policy"]
